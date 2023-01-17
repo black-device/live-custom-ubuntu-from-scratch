@@ -53,7 +53,10 @@ function customize_image() {
     curl \
     vim \
     nano \
-    less
+    less \
+    git \
+    net-tools
+    
     
 
     # purge
