@@ -54,6 +54,7 @@ function customize_image() {
     vim \
     nano \
     less
+    
 
     # purge
     apt-get purge -y \
